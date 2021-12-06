@@ -1,0 +1,33 @@
+#art{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#art2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.articulos{
+    flex-direction: row;
+    border:2px solid;
+    
+}
+.fotoArt{
+    height: 300px;
+    width: 300px;
+}
+ol{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(30, 97, 30);
+    height: 50px;
+    
+}
+li{
+    list-style-type: none;
+    background-color: green;
+    padding: 13px;
+}
